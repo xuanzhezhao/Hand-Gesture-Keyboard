@@ -1,1 +1,5 @@
 This folder contains 4 people's data of sign language. The number of samples of each letters is 100-200.
+
+And MLP with separated IMUs, the normal MLP and CNN's codes are also in this folder, using the a pickel file which contains the splited train and test data.
+
+And test_cls.py contains the SVM code, while the signtest.py is for the real-time test.
