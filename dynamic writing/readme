@@ -2,5 +2,5 @@ This folder contains 4 people's data of dynamic writng in letter.zip, that is, w
 
 And MLP, LSTM and CNN's codes are also in this folder, using the a pickel file which contains the splited train and test data.
 
-And classification.py contains the SVM code, while the test.py is for the real-time test.
+The ino file is for Arduino data collection. And classification.py contains the SVM code, while the test.py is for the real-time test. 
 
