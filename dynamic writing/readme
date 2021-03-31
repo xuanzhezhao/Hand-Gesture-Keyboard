@@ -1,1 +1,6 @@
-This folder contains 4 people's data of dynamic writng, that is, writing the letters in the air. The number of samples of each letter is about 200.
+This folder contains 4 people's data of dynamic writng in letter.zip, that is, writing the letters in the air. The number of samples of each letter is about 200.
+
+And MLP, LSTM and CNN's codes are also in this folder, using the pickel file which contains the splited train and test data.
+
+And classification.py contains the SVM code, while the test.py is for the real-time test.
+
